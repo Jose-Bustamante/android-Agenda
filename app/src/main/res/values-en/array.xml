@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="PrefFotoValores">
+        <item>Get from Camera</item>
+        <item>Get from Galery</item>
+    </array>
+
+</resources>

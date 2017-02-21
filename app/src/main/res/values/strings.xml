@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AgendaDos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="nuevo_contacto">Nuevo Contacto</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="itemETNombre">Nombre</string>
+    <string name="itemETDireccion">Direccion</string>
+    <string name="itemETEmail">Email</string>
+    <string name="itemETTelefono">Telefono</string>
+    <string name="itemEDWeb">WEB/Blog</string>
+    <string name="crearNombre">Nombre:</string>
+    <string name="crearTVtelefono">Telefono:</string>
+    <string name="crearDireccion">Direccion:</string>
+    <string name="crearEmail">Email:</string>
+    <string name="crearWeb">Web/Blog:</string>
+    <string name="crearFoto">Foto:</string>
+    <string name="btnBaja">Baja</string>
+    <string name="crearbtnModificar">Modificar</string>
+    <string name="crearAcciones">Acciones</string>
+    <string name="title_activity_crear_contacto">Crear Contacto</string>
+    <string name="title_activity_preferencias">Preferencias</string>
+    <string name="title_activity_contacto">Contacto</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="IDbtnCrearAltaContacto">Alta</string>
+    <string name="PrefLocalizacion">Localizacion:</string>
+    <string name="PrefLocalizacionAct">Localizacion Activada:</string>
+    <string name="PrefFoto">Foto:</string>
+    <string name="PrefFotoModo">Modo obtener foto:</string>
+    <string name="IDbtnCrearBorrarContacto">Borrar</string>
+    <string name="title_activity_acciones">Acciones</string>
+    <string name="title_activity_add_telef">AddTelef</string>
+    <string name="title_activity_galeria_fotos">GaleriaFotos</string>
+    <string name="telefono">Telefono</string>
+    <string name="newtelefono">Introduce nuevo telefono</string>
+    <string name="newFoto">Foto Insertada</string>
+    <string name="error">Error!</string>
+    <string name="contactoBorrado">Contacto Borrado</string>
+    <string name="modificadoCorrecto">Modificado Correcto</string>
+    <string name="contactoInsertado">Inserccion Correcta</string>
+    <string name="telfyfoto">Telefono y Foto requerida</string>
+</resources>

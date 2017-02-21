@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AgendaDos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="nuevo_contacto">New Contact</string>
+    <string name="configuracion">Configuration</string>
+    <string name="itemETNombre">Name</string>
+    <string name="itemETDireccion">Adress:</string>
+    <string name="itemETEmail">Email</string>
+    <string name="itemETTelefono">Phone</string>
+    <string name="itemEDWeb">WEB/Blog</string>
+    <string name="crearNombre">Name:</string>
+    <string name="crearTVtelefono">Phone:</string>
+    <string name="crearDireccion">Adress</string>
+    <string name="crearEmail">Email:</string>
+    <string name="crearWeb">Web/Blog:</string>
+    <string name="crearFoto">Picture:</string>
+    <string name="btnBaja">Baja</string>
+    <string name="crearbtnModificar">Edit</string>
+    <string name="crearAcciones">Actions</string>
+    <string name="title_activity_crear_contacto">Create Contact</string>
+    <string name="title_activity_preferencias">Preferences</string>
+    <string name="title_activity_contacto">Contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="PrefLocalizacion">Localization:</string>
+    <string name="PrefLocalizacionAct">Localization Activated:</string>
+    <string name="PrefFoto">Photo:</string>
+    <string name="PrefFotoModo">How to get picture:</string>
+    <string name="IDbtnCrearBorrarContacto">Delete</string>
+    <string name="title_activity_acciones">Actions</string>
+    <string name="title_activity_add_telef">AddTelef</string>
+    <string name="title_activity_galeria_fotos">PicturesGalery</string>
+    <string name="telefono">Phone</string>
+    <string name="newtelefono">Insert new phone</string>
+    <string name="newFoto">Picture saved</string>
+    <string name="error">Error!</string>
+    <string name="contactoBorrado">Contact Deleted</string>
+    <string name="modificadoCorrecto">Done!</string>
+    <string name="contactoInsertado">Inserction Done</string>
+    <string name="telfyfoto">Phone and Picture Required</string>
+    <string name="IDbtnCrearAltaContacto">Create</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/PrefFoto" >
+        <ListPreference
+            android:entries="@array/PrefFotoValores"
+            android:entryValues="@array/PrefFotoValores"
+            android:key="foto"
+            android:title="@string/PrefFotoModo" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/PrefLocalizacion" >
+        <SwitchPreference
+            android:key="localizacion"
+            android:title="@string/PrefLocalizacionAct" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@null">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImagButLLamar"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/llamada"
+        android:background="@null"
+        android:onClick="btnLLamar" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImagButMensaje"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/email"
+        android:background="@null"
+        android:onClick="btnEmail" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageButLocalizar"
+        android:layout_below="@+id/ImagButLLamar"
+        android:src="@drawable/localizar"
+        android:background="@null"
+        android:onClick="btnLocalizar" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageButWeb"
+        android:layout_below="@+id/ImagButMensaje"
+        android:layout_alignEnd="@+id/ImagButMensaje"
+        android:src="@drawable/descarga"
+        android:background="@null"
+        android:onClick="btnWeb" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageButTomarFoto"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ImageButLocalizar"
+        android:src="@drawable/tomarfoto"
+        android:background="@null"
+        android:onClick="btnFoto" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButGaleria"
+        android:layout_alignTop="@+id/ImageButTomarFoto"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/galery"
+        android:onClick="btnGaleria"
+        android:background="@null" />
+
+</RelativeLayout>
+    </ScrollView>
